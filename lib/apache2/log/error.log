@@ -1,0 +1,40 @@
+[Wed Apr 22 19:47:23.807478 2015] [mpm_prefork:notice] [pid 1507] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.5 configured -- resuming normal operations
+[Wed Apr 22 19:47:23.807552 2015] [core:notice] [pid 1507] AH00094: Command line: 'apache2'
+[Wed Apr 22 20:06:00.334688 2015] [core:warn] [pid 1731] AH00098: pid file /home/ubuntu/lib/apache2/run/apache2.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Apr 22 20:06:00.340263 2015] [mpm_prefork:notice] [pid 1731] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.5 configured -- resuming normal operations
+[Wed Apr 22 20:06:00.340318 2015] [core:notice] [pid 1731] AH00094: Command line: 'apache2'
+[Wed Apr 22 20:11:39.994354 2015] [mpm_prefork:notice] [pid 1731] AH00169: caught SIGTERM, shutting down
+[Wed Apr 22 20:11:41.054185 2015] [mpm_prefork:notice] [pid 2452] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.5 configured -- resuming normal operations
+[Wed Apr 22 20:11:41.054285 2015] [core:notice] [pid 2452] AH00094: Command line: 'apache2'
+[Wed Apr 22 20:11:56.664671 2015] [mpm_prefork:notice] [pid 2452] AH00169: caught SIGTERM, shutting down
+[Wed Apr 22 20:11:57.700626 2015] [mpm_prefork:notice] [pid 2907] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.5 configured -- resuming normal operations
+[Wed Apr 22 20:11:57.700742 2015] [core:notice] [pid 2907] AH00094: Command line: 'apache2'
+[Wed Apr 22 20:12:14.103692 2015] [mpm_prefork:notice] [pid 2907] AH00169: caught SIGTERM, shutting down
+[Wed Apr 22 20:12:15.167061 2015] [mpm_prefork:notice] [pid 3365] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.5 configured -- resuming normal operations
+[Wed Apr 22 20:12:15.167333 2015] [core:notice] [pid 3365] AH00094: Command line: 'apache2'
+[Wed Apr 22 20:12:22.238001 2015] [core:info] [pid 3374] [client 10.240.213.116:45370] AH00128: File does not exist: /home/ubuntu/workspace/favicon.ico, referer: https://playphp-abaerde.c9.io/
+[Wed Apr 22 20:13:46.193624 2015] [mpm_prefork:notice] [pid 3365] AH00169: caught SIGTERM, shutting down
+[Wed Apr 22 20:13:47.241048 2015] [mpm_prefork:notice] [pid 3822] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.5 configured -- resuming normal operations
+[Wed Apr 22 20:13:47.241131 2015] [core:notice] [pid 3822] AH00094: Command line: 'apache2'
+[Wed Apr 22 20:14:33.760945 2015] [mpm_prefork:notice] [pid 3822] AH00169: caught SIGTERM, shutting down
+[Wed Apr 22 20:14:34.855767 2015] [mpm_prefork:notice] [pid 4284] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.5 configured -- resuming normal operations
+[Wed Apr 22 20:14:34.855837 2015] [core:notice] [pid 4284] AH00094: Command line: 'apache2'
+[Wed Apr 22 20:15:01.636645 2015] [mpm_prefork:notice] [pid 4284] AH00169: caught SIGTERM, shutting down
+[Wed Apr 22 20:15:02.680710 2015] [mpm_prefork:notice] [pid 4760] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.5 configured -- resuming normal operations
+[Wed Apr 22 20:15:02.680812 2015] [core:notice] [pid 4760] AH00094: Command line: 'apache2'
+[Fri Apr 24 13:44:01.040058 2015] [core:info] [pid 4768] [client 10.240.238.31:47779] AH00128: File does not exist: /home/ubuntu/workspace/favicon.ico, referer: https://playphp-abaerde.c9.io/
+[Fri Apr 24 17:41:53.249117 2015] [mpm_prefork:notice] [pid 4760] AH00169: caught SIGTERM, shutting down
+[Fri Apr 24 17:41:53.915161 2015] [mpm_prefork:notice] [pid 5845] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.5 configured -- resuming normal operations
+[Fri Apr 24 17:41:53.915254 2015] [core:notice] [pid 5845] AH00094: Command line: 'apache2'
+[Fri Apr 24 17:42:46.133921 2015] [mpm_prefork:notice] [pid 5845] AH00169: caught SIGTERM, shutting down
+[Fri Apr 24 17:42:46.236872 2015] [mpm_prefork:notice] [pid 6295] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.5 configured -- resuming normal operations
+[Fri Apr 24 17:42:46.236981 2015] [core:notice] [pid 6295] AH00094: Command line: 'apache2'
+[Fri May 29 15:26:50.436611 2015] [core:warn] [pid 1326] AH00098: pid file /home/ubuntu/lib/apache2/run/apache2.pid overwritten -- Unclean shutdown of previous Apache run?
+[Fri May 29 15:26:50.441220 2015] [mpm_prefork:notice] [pid 1326] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.5 configured -- resuming normal operations
+[Fri May 29 15:26:50.441260 2015] [core:notice] [pid 1326] AH00094: Command line: 'apache2'
+[Fri May 29 18:36:17.345182 2015] [mpm_prefork:notice] [pid 1326] AH00169: caught SIGTERM, shutting down
+[Fri May 29 18:36:18.054981 2015] [mpm_prefork:notice] [pid 2970] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.5 configured -- resuming normal operations
+[Fri May 29 18:36:18.055052 2015] [core:notice] [pid 2970] AH00094: Command line: 'apache2'
+[Fri May 29 19:48:31.545145 2015] [mpm_prefork:notice] [pid 2970] AH00169: caught SIGTERM, shutting down
+[Fri May 29 19:48:32.597231 2015] [mpm_prefork:notice] [pid 4418] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.5 configured -- resuming normal operations
+[Fri May 29 19:48:32.597321 2015] [core:notice] [pid 4418] AH00094: Command line: 'apache2'
